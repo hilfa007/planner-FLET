@@ -1,0 +1,229 @@
+([('main.exe',
+   'C:\\Users\\hilfa vt\\flet\\flet_diary\\build\\main\\main.exe',
+   'EXECUTABLE'),
+  ('main.exe.manifest',
+   'C:\\Users\\hilfa vt\\flet\\flet_diary\\build\\main\\main.exe.manifest',
+   'BINARY'),
+  ('python39.dll',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\python39.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('unicodedata',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_ctypes',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_lzma',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('select',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_overlapped',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_ssl',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_asyncio',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('_queue',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_decimal',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_multiprocessing',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_uuid',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\DLLs\\_uuid.pyd',
+   'EXTENSION'),
+  ('_elementtree',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\DLLs\\_elementtree.pyd',
+   'EXTENSION'),
+  ('libffi-7.dll',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\DLLs\\libffi-7.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('libcrypto-1_1.dll',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'C:\\Users\\hilfa vt\\flet\\flet_diary\\build\\main\\base_library.zip',
+   'DATA'),
+  ('flet\\bin\\flet\\vcruntime140.dll',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\flet\\bin\\flet\\vcruntime140.dll',
+   'DATA'),
+  ('flet\\bin\\flet\\msvcp140.dll',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\flet\\bin\\flet\\msvcp140.dll',
+   'DATA'),
+  ('flet\\bin\\flet\\data\\flutter_assets\\AssetManifest.json',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\flet\\bin\\flet\\data\\flutter_assets\\AssetManifest.json',
+   'DATA'),
+  ('flet\\bin\\flet\\data\\app.so',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\flet\\bin\\flet\\data\\app.so',
+   'DATA'),
+  ('flet\\bin\\flet\\data\\flutter_assets\\NOTICES.Z',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\flet\\bin\\flet\\data\\flutter_assets\\NOTICES.Z',
+   'DATA'),
+  ('flet\\bin\\flet\\window_manager_plugin.dll',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\flet\\bin\\flet\\window_manager_plugin.dll',
+   'DATA'),
+  ('flet\\bin\\flet\\vcruntime140_1.dll',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\flet\\bin\\flet\\vcruntime140_1.dll',
+   'DATA'),
+  ('flet\\bin\\flet\\data\\flutter_assets\\packages\\window_manager\\images\\ic_chrome_maximize.png',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\flet\\bin\\flet\\data\\flutter_assets\\packages\\window_manager\\images\\ic_chrome_maximize.png',
+   'DATA'),
+  ('flet\\bin\\flet\\data\\flutter_assets\\fonts\\MaterialIcons-Regular.otf',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\flet\\bin\\flet\\data\\flutter_assets\\fonts\\MaterialIcons-Regular.otf',
+   'DATA'),
+  ('flet\\bin\\flet\\data\\flutter_assets\\FontManifest.json',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\flet\\bin\\flet\\data\\flutter_assets\\FontManifest.json',
+   'DATA'),
+  ('flet\\bin\\flet\\screen_retriever_plugin.dll',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\flet\\bin\\flet\\screen_retriever_plugin.dll',
+   'DATA'),
+  ('flet\\bin\\flet\\data\\flutter_assets\\packages\\window_manager\\images\\ic_chrome_minimize.png',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\flet\\bin\\flet\\data\\flutter_assets\\packages\\window_manager\\images\\ic_chrome_minimize.png',
+   'DATA'),
+  ('flet\\bin\\flet\\flutter_windows.dll',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\flet\\bin\\flet\\flutter_windows.dll',
+   'DATA'),
+  ('flet\\bin\\flet\\data\\flutter_assets\\packages\\cupertino_icons\\assets\\CupertinoIcons.ttf',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\flet\\bin\\flet\\data\\flutter_assets\\packages\\cupertino_icons\\assets\\CupertinoIcons.ttf',
+   'DATA'),
+  ('flet\\bin\\flet\\data\\icudtl.dat',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\flet\\bin\\flet\\data\\icudtl.dat',
+   'DATA'),
+  ('flet\\bin\\flet\\data\\flutter_assets\\packages\\window_manager\\images\\ic_chrome_unmaximize.png',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\flet\\bin\\flet\\data\\flutter_assets\\packages\\window_manager\\images\\ic_chrome_unmaximize.png',
+   'DATA'),
+  ('flet\\bin\\flet\\data\\flutter_assets\\packages\\window_manager\\images\\ic_chrome_close.png',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\flet\\bin\\flet\\data\\flutter_assets\\packages\\window_manager\\images\\ic_chrome_close.png',
+   'DATA'),
+  ('flet\\bin\\flet\\flet.exe',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\flet\\bin\\flet\\flet.exe',
+   'DATA'),
+  ('flet\\bin\\fletd.exe',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\flet\\bin\\fletd.exe',
+   'DATA'),
+  ('pyinstaller-4.5.1.dist-info\\top_level.txt',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyinstaller-4.5.1.dist-info\\top_level.txt',
+   'DATA'),
+  ('pyinstaller-4.5.1.dist-info\\REQUESTED',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyinstaller-4.5.1.dist-info\\REQUESTED',
+   'DATA'),
+  ('altgraph-0.17.dist-info\\METADATA',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\altgraph-0.17.dist-info\\METADATA',
+   'DATA'),
+  ('altgraph-0.17.dist-info\\RECORD',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\altgraph-0.17.dist-info\\RECORD',
+   'DATA'),
+  ('altgraph-0.17.dist-info\\zip-safe',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\altgraph-0.17.dist-info\\zip-safe',
+   'DATA'),
+  ('altgraph-0.17.dist-info\\LICENSE',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\altgraph-0.17.dist-info\\LICENSE',
+   'DATA'),
+  ('altgraph-0.17.dist-info\\WHEEL',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\altgraph-0.17.dist-info\\WHEEL',
+   'DATA'),
+  ('pyinstaller-4.5.1.dist-info\\RECORD',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyinstaller-4.5.1.dist-info\\RECORD',
+   'DATA'),
+  ('pyinstaller-4.5.1.dist-info\\entry_points.txt',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyinstaller-4.5.1.dist-info\\entry_points.txt',
+   'DATA'),
+  ('pyinstaller-4.5.1.dist-info\\COPYING.txt',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyinstaller-4.5.1.dist-info\\COPYING.txt',
+   'DATA'),
+  ('pyinstaller-4.5.1.dist-info\\WHEEL',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyinstaller-4.5.1.dist-info\\WHEEL',
+   'DATA'),
+  ('pyinstaller-4.5.1.dist-info\\METADATA',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyinstaller-4.5.1.dist-info\\METADATA',
+   'DATA'),
+  ('altgraph-0.17.dist-info\\INSTALLER',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\altgraph-0.17.dist-info\\INSTALLER',
+   'DATA'),
+  ('altgraph-0.17.dist-info\\top_level.txt',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\altgraph-0.17.dist-info\\top_level.txt',
+   'DATA'),
+  ('pyinstaller-4.5.1.dist-info\\INSTALLER',
+   'c:\\users\\hilfa '
+   'vt\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pyinstaller-4.5.1.dist-info\\INSTALLER',
+   'DATA')],)
